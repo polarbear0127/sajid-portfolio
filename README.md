@@ -1,6 +1,6 @@
 # Web Developer Portfolio - Using HTML, CSS, Bootstrap & JS
 
-  <img src="./assets/images/readme banner.png" alt="Developer Portfolio Website  />
+
 ## **Portfolio Features:**
 
 * **Light/Dark Modes Supported 🌙☀️:**  Switch effortlessly between light and dark themes. Your preference is saved, even after you close the page!
